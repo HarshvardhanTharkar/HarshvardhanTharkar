@@ -25,7 +25,7 @@ Terraform (Infrastructure as Code)
 Linux • Nginx • Reverse Proxy Setup  
 
 ### 👨‍💻 Languages
-JavaScript • TypeScript • Python • C++
+JavaScript • Java • Python • C++
 
 ---
 
@@ -64,7 +64,9 @@ JavaScript • TypeScript • Python • C++
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/harshvardhan-tharkar-6a75aa2b1/
+
 Portfolio: https://harshvardhan-tharkar.vercel.app/
+
 Email: harshvardhantharkar576@gmail.com
 
 ---
