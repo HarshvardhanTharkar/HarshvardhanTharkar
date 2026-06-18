@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshvardhan-tharkar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-tharkar-6a75aa2b1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhantharkar576@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
 
 </div>
 
@@ -120,8 +120,8 @@ Approach: understand the pattern first, optimise second, write clean readable so
 
 | Role | Company | Period |
 |------|---------|--------|
-| Full Stack Development Intern | SuprMentr | Sep 2025 – Present |
-| Full Stack Development Intern | Infosys Springboard | Jul – Aug 2025 |
+| Full Stack Development Intern | SuprMentr | Sep 2025  |
+| Full Stack Development Intern | Infosys Springboard | Aug 2025 |
 | Chairperson | IEEE SIGHT Atria | 2023 – 2024 |
 
 ---
