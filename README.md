@@ -4,7 +4,7 @@
 
 **Full Stack Engineer · DevOps & Cloud · MERN Stack**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshvardhan-tharkar.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://harshvardhanutharkar.s3-website.ap-south-1.amazonaws.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-tharkar-6a75aa2b1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhantharkar576@gmail.com)
 
